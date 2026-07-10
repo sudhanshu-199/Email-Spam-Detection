@@ -295,7 +295,7 @@ Navigate through the sidebar to explore:
 
 **Sudhanshu Ranjan** & **Khushwinder Kaur**  
 Intern at Solitaire Infosystems  
-GitHub: [@sudhanshu-ranjan](https://github.com/sudhanshu-ranjan)
+GitHub: [@sudhanshu-ranjan](https://github.com/sudhanshu-199)
 
 ---
 
