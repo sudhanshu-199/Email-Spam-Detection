@@ -1,0 +1,30 @@
+# ============================================================
+# Email Spam Detection System - Requirements
+# Author: Sudhanshu Ranjan | Chandigarh University
+# ============================================================
+
+# Core Data Science
+pandas>=2.2.2
+numpy>=1.26.4
+
+# Machine Learning
+scikit-learn>=1.5.1
+
+# Natural Language Processing
+nltk>=3.8.1
+
+# Visualization
+matplotlib>=3.9.1
+seaborn>=0.13.2
+wordcloud>=1.9.3
+plotly>=5.22.0
+
+# Web Application
+streamlit>=1.36.0
+
+# Utilities
+joblib>=1.4.2
+Pillow>=10.4.0
+
+# Optional: Jupyter (for exploratory analysis)
+# jupyter==1.0.0
