@@ -12,6 +12,7 @@
 
 *Developers: Sudhanshu Ranjan & Khushwinder Kaur | Intern at Solitaire Infosystems*
 
+*https://email-spam-detection-free.streamlit.app*
 </div>
 
 ---
